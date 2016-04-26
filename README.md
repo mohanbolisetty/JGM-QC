@@ -36,4 +36,25 @@ Pipelines available:
 	PDX_mRNA
 	PDX_WGS
 	
-Metrics reported:
+Universal Metrics reported:
+
+	Total Reads (or Pairs)
+	Trimmed and Filtered Reads
+	Mapped Reads
+	Insert Sizes
+	Duplication Rates
+	chrM
+	chrX
+	chrY
+	
+RNA-seq Metrics:
+
+	Percent Coding
+	Percent Exon
+	Percent UTR
+	Percent Intron
+	Percent RRNA
+	Percent Intergenic
+	Median 5` bias
+	Median 3` bias
+	Percent Correct strand
